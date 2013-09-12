@@ -1,0 +1,49 @@
+
+body{
+	background : darkseagreen;
+	background : #B4EEB4 ;
+	background : rgb(180,238,180);
+	background : hsl(120,63%,82%);
+	
+    opacity:0.8; 
+}   
+h1{ 
+	background: darkseagreen;
+ 	background : #698B69;
+    background : rgb(105,139,105);
+    background : hsl(120,14%,48%);
+    background : rgba(105, 139, 105, 1);
+	
+	color:navy;
+}
+h2{ 
+	background : darkseagreen;
+ 	background : #698B69;
+    background : rgb(105,139,105);
+    background : hsl(120,14%,48%);
+    background : hsla(120,14%,48%,1);
+	
+	
+	color:navy;
+}
+h3{ 
+	background : darkseagreen;
+ 	background : #698B69;
+    background : rgb(105,139,105);
+    background : hsl(120,14%,48%);
+    background : hsla(120,14%,48%,1);
+    color:navy;
+}
+ul{
+	background : darkseagreen;
+	background : #9BCD9B;
+	background : rgb(155,205,155);
+	background: hsl(120, 33%, 71%);
+	background : hsla(120, 33%, 71%, 1);
+	
+	color:navy 
+}
+ol{
+	color: navy;
+	font-size:12px;
+}
