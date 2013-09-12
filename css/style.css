@@ -1,4 +1,9 @@
 
+/*
+Hex color number, RGB color number, Color name,
+Opacity or RGBA or HSLA
+*/
+
 body{
 	background : darkseagreen;
 	background : #B4EEB4 ;
@@ -43,6 +48,9 @@ ul{
 	
 	color:navy 
 }
+/* 
+color name, font zise.
+*/
 ol{
 	color: navy;
 	font-size:12px;
