@@ -1,0 +1,78 @@
+
+
+
+
+body{
+	background : #FFCCFF ;
+	background : rgb(255,204,255);
+	background : hsl(300,100%,90%);
+	opacity:0.8;
+	font-style: italic;
+	font-size: 14pt;
+	font-family: Arial;
+	color: navy;
+/*
+validation shows error with a google font
+*/
+} 
+
+h1{ 
+	color: navy;
+	font-weight: bold;
+	font-size: 200% ;
+	line-height:1.2em; 
+	font-family: Georgia;
+	text-align: center;
+	text-shadow: 2px 2px 7px #111111;	
+}
+
+h2{ 
+	color:navy;
+    font-weight: bold;
+    font-size:180%;
+    font-family:Verdana;
+    text-align: center;
+    text-shadow: 3px 3px 9px #111111;
+    text-transform:lowercase;
+}
+	
+h3{
+	color:navy;
+	font-weight: bold; 
+	font-size:150%;
+	font-family: Arial;
+	text-align: center;
+	letter-spacing: 0.1em;
+	text-shadow: 2px 2px 7px #111111;
+}
+ul{ 
+    color:white;
+}
+p{
+    font-style: italic;
+}
+a:link { 
+	color: brown; text-decoration: none;
+}
+a:visited { 
+	color: blue;
+}
+p.intro:first-line { 
+font-weight: bold;
+}
+.credits { 
+	font-style: italic; text-align: right;
+}
+a:hover { 
+	text-decoration: underline;
+}
+ 
+
+ 
+/* 
+color name, font zise.
+*/
+ol{
+	color: navy;
+	font-size:12px;
+}
