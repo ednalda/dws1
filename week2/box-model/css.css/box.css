@@ -109,13 +109,13 @@ ul{
  
 
    h3{ 
-	-moz-box-shadow: inset 0 0 10px #777777; -webkit-box-shadow: inset 0 0 10px #777777; box-shadow: inset 0 0 10px #777777;
+	box-shadow: inset 0 0 10px #777777; box-shadow: inset 0 0 10px #777777; box-shadow: inset 0 0 10px #777777;
 	}
  
 
 
 /* 
-color name, font zise.
+color name, font size.
 */
 ol{
 	color: navy;
