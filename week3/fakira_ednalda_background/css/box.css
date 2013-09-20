@@ -1,0 +1,146 @@
+/*
+I can't place images inside image folder. It doesn't work!
+I can't place the icon!
+*/
+
+body{
+    font-style: italic;
+	font-size: 1.16em;
+	font-family:Arial, Verdana, sans-serif;
+    text-align: left;
+    color:#FFD473;
+    padding: 0%;
+    width: 80%;
+    height:80%;
+    margin: 10% auto 10% auto;
+    border: 3px solid #FFC540;
+    border-radius: 3%;
+    box-shadow: 5px 5px 5px 5px #777777;
+    background: url("tea-leaves.png") repeat center;
+    background-color: #A67300;
+}
+
+    .content{
+    background-color:#FE8C01;
+    border: 1px solid #FE8C01;
+    border-radius: 3%;
+}
+.icon{
+    background: url("icon.icns");
+}
+ 
+h1{ 
+	color:#FFD473;
+	font-weight: bold;
+	font-size: 2em ;
+	line-height:1.2em; 
+	font-family: georgia, serif;
+	text-align: center;
+	text-shadow: 2px 2px 7px #111111; 
+    background:url("1379717648_23860.icns")no-repeat; 
+}
+
+h2{ 
+	color:#FFD473;
+    font-weight: bold;
+    font-size:1.08em;
+    font-family:georgia, serif;
+    text-align: center;
+    text-shadow: 3px 3px 9px #111111;
+    text-transform:lowercase;
+    margin:10% 0% 10% 85%;
+    text-shadow: 5px 4px 10px #111111;
+   
+}
+.intro{
+    height: 2%;
+    background-color:#B79430;
+    width: 100%; 
+    margin: 10% 0% 10% 38%;
+    border: 9px dotted #A67300;
+} 
+    	
+h3{
+	color:#FFD473;
+	font-weight: bold; 
+	font-size:1.5em;
+	font-family:georgia, serif;
+	text-align: center;
+	letter-spacing: 0.1em;
+    text-transform: lowercase;
+}
+
+ul{ 
+    color:#FFD473;
+    list-style-type: square;      
+}
+
+li{
+    font-style: italic;
+    display: inline; margin-right: 0%;
+
+}
+ 
+table{
+    padding-bottom: 5%;
+    margin: 10% 0% 10% 46%;
+    background: url("gradient.png")top;
+    width:40%;
+   
+}
+
+a:link { 
+	color:#FFB100; text-decoration: none;
+
+}
+a:visited { 
+	color:white;
+}
+a:hover { 
+    text-decoration: underline;
+} 
+.credits { 
+	font-style: italic; 
+	word-spacing: 4em;	
+}
+
+.column1{ 
+    float: left; 
+    width: 50%;
+    height: 70%; 
+    padding-right: 5%; 
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}
+.column2{
+   float:left; 
+   width:40%; 
+   height:10%;
+   margin:10% auto;
+   border: 4px solid #A67300;
+   padding:5%; 
+   margin-right:2%
+    
+}
+
+footer{
+    clear:both;
+    display:block;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    padding-right: 5%;
+    padding-left: 0%;
+    font-size: 0.83em;
+    font-weight: bold;
+    background:url("unknown.jpeg") no-repeat 50% 0%,
+    url("unknown-1.jpeg") no-repeat 90% 0%,
+    url("images.jpeg") no-repeat 10% 0%;
+}
+
+
+
+
+
+
+ 
