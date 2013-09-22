@@ -16,7 +16,7 @@ body{
     border: 3px solid #FFC540;
     border-radius: 3%;
     box-shadow: 5px 5px 5px 5px #777777;
-    background: url("tea-leaves.png") repeat center;
+    background: url("../images/tea-leaves.png") repeat center;
     background-color: #A67300;
 }
 
@@ -26,7 +26,7 @@ body{
     border-radius: 3%;
 }
 .icon{
-    background: url("icon.icns");
+    background: url("../images/icon.icns");
 }
  
 h1{ 
@@ -37,7 +37,7 @@ h1{
 	font-family: georgia, serif;
 	text-align: center;
 	text-shadow: 2px 2px 7px #111111; 
-    background:url("1379717648_23860.icns")no-repeat; 
+    background:url("../images/1379717648_23860.icns")no-repeat; 
 }
 
 h2{ 
@@ -83,8 +83,8 @@ li{
  
 table{
     padding-bottom: 5%;
-    margin: 10% 0% 10% 46%;
-    background: url("gradient.png")top;
+    margin: 10% 20% 10% 70%;
+    background: url("../images/gradient.png")top;
     width:40%;
    
 }
@@ -133,9 +133,9 @@ footer{
     padding-left: 0%;
     font-size: 0.83em;
     font-weight: bold;
-    background:url("unknown.jpeg") no-repeat 50% 0%,
-    url("unknown-1.jpeg") no-repeat 90% 0%,
-    url("images.jpeg") no-repeat 10% 0%;
+    background:url("../images/unknown.jpeg") no-repeat 50% 0%,
+    url("../images/unknown-1.jpeg") no-repeat 90% 0%,
+    url("../images/images.jpeg") no-repeat 10% 0%;
 }
 
 
