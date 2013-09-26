@@ -17,16 +17,16 @@ body{
     width: 80%;
     height:80%;
     margin: 10% auto 10% auto;
-    border: 8px solid #1D8C00;
+    border: 3px solid #1D8C00;
     border-radius: 3%;
-    box-shadow: 5px 5px 5px 5px #777777;
+    box-shadow: 10px 0px 0px 0px #777777;
     background: url("../images/tea-leaves.png") repeat center;
     background-color: #42E73A;
 }
 
     #page{
     background-color:#62D99C;
-    border: 10px solid #1D8C00;
+    border: 3px solid #1D8C00;
     border-radius: 1.5%;
 }
 .icon{
@@ -50,7 +50,7 @@ h2{
     text-align: center;
     text-shadow: 3px 3px 9px #111111;
     text-transform:lowercase;
-    margin:10% 0% 10% 0%;
+    margin:10% auto 10% auto;
    
 }
     	
@@ -67,13 +67,13 @@ h3{
     height: 2%;
     background-color:#42E73A;
     width: 100%; 
-    margin: 10% 0% 10% 0%;
+    margin: 10% auto 10% auto;
     border: 9px dotted #1D8C00;
 } 
  
 table{
     padding-bottom: 0%;
-    margin: 0% 10% 10% 10%;
+    margin: 10% auto 10% auto;
     background: url("../images/gradient.png")top;
     font: 1em  "Times New Roman", Times, serif;
     border: 1px solid #A67300;
@@ -102,8 +102,8 @@ td{
    float:left; 
    width:35%; 
    height:70%;
-   margin:3% 0% 0% 0%;
-   border: 6px solid #1D8C00;
+   margin:10% auto% 10% auto%;
+   border: 3px solid #1D8C00;
    border-radius: 2%; 
   
     
@@ -127,7 +127,7 @@ a:hover {
 footer{
     clear:both;
     display:block;
-    margin: 1% 2% 3% 2%;
+    margin: 10% auto 10% auto;
     padding-top: 0%;
     padding-bottom: 15%;
     padding-right: 3%;
